@@ -172,7 +172,7 @@
   "باتون__۲۹": "ثابت",
   "باتون__۳۰": "ثابت",
   "تصویر۳": "https://s3.uupload.ir/files/toolsiner/Images/%D8%A8%D8%A7%D8%B1%DA%AF%DB%8C%D8%B1%DB%8C.jpeg",
-  "کانال_ما_تنظیمات": "Sketchwarre",
+  "کانال_ما_تنظیمات": "https://rubika.ir/Sketchwarre",
   "آیدی_پشتیبانی_روبیکا": "Support_Toolsiner_App",
   "عنوان": "ابزارینر|Toolsiner",
   "پیغام": "? . . نسخه جدید برنامه در دسترس است آیا مایل به بروز رسانی هستید . . ؟",
